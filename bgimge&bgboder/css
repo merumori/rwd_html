@@ -1,1 +1,41 @@
+body {
+    /* background-color: #ffffff;
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;*/
+    background: #ffffff url("../img/img.jpg") no-repeat center;
+}
 
+.p1 {
+    border-style: solid;
+    border-radius: 40px 0px;
+    border-top-color: aqua;
+    border-left-color: blue;
+    border-right-color: red;
+    border-bottom-color: green;
+    border-width: 20px;
+    background-color: blanchedalmond;
+    /*background-image: url(../img/img3.jpg);*/
+    background-position: 5px center;
+    font-size: 20px;
+    text-justify: center;
+    color: rgb(4, 0, 255);
+    border-top-left-radius: 800px;
+    border-top-right-radius: 800px;
+    border-bottom-left-radius: 800px;
+    border-bottom-right-radius: 800px;
+}
+
+.p2 {
+    color: red;
+    background-position: 5px center;
+    font-size: 30px;
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    border-radius: 20px;
+    border-color: burlywood;
+    border-width: 20px;
+    background-color: aquamarine;
+}
